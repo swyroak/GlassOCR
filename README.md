@@ -66,4 +66,4 @@ GUIを備えており、フォルダ単位での一括処理や進捗確認が�
 
 ## ライセンス
 
-[MIT License](LICENSE) (または任意のライセンス)
+[MIT License](LICENSE)
